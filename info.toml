@@ -1,0 +1,271 @@
+# The format version is an indicator of the compatibility of third-party exercises with the
+# Rustlings program.
+# The format version is not the same as the version of the Rustlings program.
+# In case Rustlings makes an unavoidable breaking change to the expected format of third-party
+# exercises, you would need to raise this version and adapt to the new format.
+# Otherwise, the newest version of the Rustlings program won't be able to run these exercises.
+format_version = 1
+
+# Optional multi-line message to be shown to users when just starting with the exercises.
+welcome_message = """Welcome to these CS330 Rustlings exercises."""
+
+# Optional multi-line message to be shown to users after finishing all exercises.
+final_message = """We hope that you found the exercises helpful :D"""
+
+# Repeat this section for every exercise.
+[[exercises]]
+dir = "01_ownership"
+name = "ownership01"
+test = false
+hint = """NA"""
+
+[[exercises]]
+dir = "01_ownership"
+name = "ownership02"
+test = false
+hint = """NA"""
+
+[[exercises]]
+dir = "01_ownership"
+name = "ownership03"
+test = false
+hint = """NA"""
+
+[[exercises]]
+dir = "01_ownership"
+name = "ownership04"
+test = false
+hint = """NA"""
+
+[[exercises]]
+dir = "01_ownership"
+name = "ownership05"
+test = false
+hint = """NA"""
+
+[[exercises]]
+dir = "01_ownership"
+name = "ownership06"
+test = false
+hint = """NA"""
+
+[[exercises]]
+dir = "01_ownership"
+name = "ownership07"
+test = false
+hint = """NA"""
+
+[[exercises]]
+dir = "01_ownership"
+name = "ownership08"
+test = false
+hint = """NA"""
+
+[[exercises]]
+dir = "01_ownership"
+name = "ownership09"
+test = false
+hint = """NA"""
+
+[[exercises]]
+dir = "01_ownership"
+name = "ownership10"
+test = false
+hint = """NA"""
+
+[[exercises]]
+dir = "02_ref_borrow"
+name = "ref_borrow01"
+test = false
+hint = """NA"""
+
+[[exercises]]
+dir = "02_ref_borrow"
+name = "ref_borrow02"
+test = false
+hint = """NA"""
+
+[[exercises]]
+dir = "02_ref_borrow"
+name = "ref_borrow03"
+test = false
+hint = """NA"""
+strict_clippy = false
+
+[[exercises]]
+dir = "02_ref_borrow"
+name = "ref_borrow04"
+test = false
+hint = """NA"""
+
+[[exercises]]
+dir = "02_ref_borrow"
+name = "ref_borrow05"
+test = false
+hint = """NA"""
+
+[[exercises]]
+dir = "02_ref_borrow"
+name = "ref_borrow06"
+test = false
+hint = """NA"""
+
+[[exercises]]
+dir = "02_ref_borrow"
+name = "ref_borrow07"
+test = false
+hint = """NA"""
+
+[[exercises]]
+dir = "02_ref_borrow"
+name = "ref_borrow08"
+test = false
+hint = """NA"""
+
+[[exercises]]
+dir = "02_ref_borrow"
+name = "ref_borrow09"
+test = false
+hint = """NA"""
+skip_check_unsolved = true
+
+[[exercises]]
+dir = "02_ref_borrow"
+name = "ref_borrow10"
+test = false
+hint = """NA"""
+
+[[exercises]]
+dir = "02_ref_borrow"
+name = "ref_borrow11"
+test = false
+hint = """NA"""
+skip_check_unsolved = true
+
+[[exercises]]
+dir = "03_flow"
+name = "flow01"
+test = false
+hint = """NA"""
+
+[[exercises]]
+dir = "03_flow"
+name = "flow02"
+test = false
+hint = """NA"""
+
+[[exercises]]
+dir = "03_flow"
+name = "flow03"
+test = false
+hint = """NA"""
+
+[[exercises]]
+dir = "03_flow"
+name = "flow04"
+test = false
+hint = """NA"""
+
+[[exercises]]
+dir = "03_flow"
+name = "flow05"
+test = false
+hint = """NA"""
+
+[[exercises]]
+dir = "03_flow"
+name = "flow06"
+test = false
+hint = """NA"""
+
+[[exercises]]
+dir = "03_flow"
+name = "flow07"
+test = false
+hint = """NA"""
+
+[[exercises]]
+dir = "03_flow"
+name = "flow08"
+test = false
+hint = """NA"""
+
+[[exercises]]
+dir = "03_flow"
+name = "flow09"
+test = false
+hint = """NA"""
+
+[[exercises]]
+dir = "03_flow"
+name = "flow10"
+test = false
+hint = """NA"""
+
+[[exercises]]
+dir = "03_flow"
+name = "flow11"
+test = false
+hint = """NA"""
+
+[[exercises]]
+dir = "04_match"
+name = "match01"
+test = false
+hint = """NA"""
+
+[[exercises]]
+dir = "04_match"
+name = "match02"
+test = false
+hint = """NA"""
+
+[[exercises]]
+dir = "04_match"
+name = "match03"
+test = false
+hint = """NA"""
+strict_clippy = false
+
+[[exercises]]
+dir = "04_match"
+name = "match04"
+test = false
+hint = """NA"""
+
+[[exercises]]
+dir = "04_match"
+name = "match05"
+test = false
+hint = """NA"""
+
+[[exercises]]
+dir = "04_match"
+name = "match06"
+test = false
+hint = """NA"""
+
+[[exercises]]
+dir = "04_match"
+name = "match07"
+test = false
+hint = """NA"""
+
+[[exercises]]
+dir = "04_match"
+name = "match08"
+test = false
+hint = """NA"""
+
+[[exercises]]
+dir = "04_match"
+name = "match09"
+test = false
+hint = """NA"""
+skip_check_unsolved = true
+# Rustlings will always run Clippy on exercises.
+# You can optionally set `strict_clippy` to `true` (the default is `false`) to only consider
+# the exercise as done when there are no warnings left.
+# strict_clippy = false
+
+# A multi-line hint to be shown to users on request.
