@@ -25,6 +25,9 @@ elf:
 qemu: bin
 	./qemu.sh build/$(KERN).bin
 
+qemu_screen: bin
+	./qemu_screenable.sh build/$(KERN).bin
+
 transmit: bin
 	@echo "+ Transmitting build/$(KERN).bin to $(TTY_PATH)"
 	ttywrite -i build/$(KERN).bin $(TTY_PATH)
